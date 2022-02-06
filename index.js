@@ -1,2 +1,2 @@
 // commit init: initialisation
-console.log('Hello world')
+console.log('Hello world');
